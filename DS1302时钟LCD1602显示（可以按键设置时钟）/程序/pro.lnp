@@ -1,0 +1,8 @@
+"STARTUP.obj",
+"main.obj",
+"lcd.obj",
+"ds1302.obj",
+"oled.obj",
+"temp.obj",
+"i2c.obj" 
+TO "pro" 
